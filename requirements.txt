@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+tiktoken
+numpy
+pandas
+groq
+pyperclip
+python-docx
+reportlab
